@@ -1,7 +1,6 @@
 'use client';
 
-import { motion } from 'framer-motion';
-import { useInView } from 'framer-motion';
+import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 import { TextReveal } from '@/components/ui/TextReveal';
 
@@ -86,10 +85,7 @@ export default function Contact() {
                             <div className="w-12 h-12 flex items-center justify-center rounded-full bg-white/5 group-hover:bg-white text-white group-hover:text-black transition-all duration-300 mb-6">
                                 {link.icon}
                             </div>
-                            <h3 className="text-lg font-bold mb-2">{link.name}</h3>
-                            <p className="text-sm text-gray-400 group-hover:text-gray-300 transition-colors">
-                                {link.value}
-                            </p>
+                            <h3 className="text-lg font-bold">{link.name}</h3>
                         </motion.a>
                     ))}
                 </div>
