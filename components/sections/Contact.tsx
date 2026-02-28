@@ -41,7 +41,7 @@ export default function Contact() {
         },
         {
             name: 'LinkedIn',
-            value: 'linkedin.com/in/aahansharmaji',
+            value: 'linkedin.com/in/aahandoesgit',
             href: 'http://www.linkedin.com/in/aahandoesgit',
             icon: (
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
