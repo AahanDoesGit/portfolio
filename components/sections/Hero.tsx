@@ -40,7 +40,7 @@ export default function Hero() {
                         className="mb-8"
                     >
                         <h2 className="text-xl md:text-2xl lg:text-3xl text-gray-400 font-light">
-                            Computer Science Student | Software & Embedded Systems Developer
+                            Computer Science Student | Software Developer & Digital Marketer
                         </h2>
                     </motion.div>
 
@@ -51,8 +51,7 @@ export default function Hero() {
                         transition={{ duration: 0.8, delay: 0.6 }}
                     >
                         <p className="text-base md:text-lg text-gray-300 mb-12 max-w-2xl mx-auto leading-relaxed">
-                            I&apos;m a Computer Science student who enjoys building software that interacts with real hardware.
-                            I work across web development, backend systems, and embedded boards like Raspberry Pi and LattePanda.
+                            I&apos;m a Computer Science student who blends technical expertise in software and embedded systems with a strategic mindset for digital marketing and project management. I build robust solutions and know how to position them effectively.
                         </p>
                     </motion.div>
 

@@ -23,6 +23,12 @@ const services = [
         title: 'Embedded Systems',
         description: 'Building software that interacts with hardware. I work with Raspberry Pi, LattePanda, and other embedded boards to create IoT solutions and hardware-integrated applications.',
         skills: ['Raspberry Pi, LattePanda', 'Embedded Linux, Python', 'Sensor Integration, GPIO']
+    },
+    {
+        number: '04',
+        title: 'Management & Marketing',
+        description: 'Beyond coding, I bring organizational and promotional skills to the table. I manage projects effectively and leverage digital marketing strategies to increase reach and engagement.',
+        skills: ['Project Management, Agile', 'Digital Marketing, SEO', 'Social Media Management']
     }
 ];
 

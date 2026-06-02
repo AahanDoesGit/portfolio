@@ -31,6 +31,12 @@ const skillsData = {
         'DSA',
         'Operating Systems',
         'System Design'
+    ],
+    'Management & Marketing': [
+        'Project Management',
+        'Digital Marketing',
+        'Social Media Management',
+        'Marketing'
     ]
 };
 
@@ -63,10 +69,10 @@ export default function Skills() {
                             <div className="mb-6">
                                 <p className="text-xs text-gray-500 uppercase tracking-widest mb-3">(ABOUT ME)</p>
                                 <p className="text-gray-400 leading-relaxed">
-                                    I am a passionate Software Engineer with a knack for building full-stack web applications
+                                    I am a passionate Software Engineer and Digital Marketer with a knack for building full-stack web applications
                                     using modern technologies like Next.js and Tailwind CSS. My journey in tech began with a
                                     curiosity for solving real-world problems through code, and it has evolved into a career
-                                    focused on creating impactful digital solutions.
+                                    focused on creating impactful digital solutions while effectively managing projects and marketing them to the right audience.
                                 </p>
                             </div>
                         </div>
